@@ -1,3 +1,3 @@
-# Pixel Amigos — Capítulo 8: El cumpleaños de Bit
+# Pixel Amigos
 
-Archivos del capítulo del día para la publicación programada en YouTube.
+Capítulo 9: ¡Leo y Nia se enfadan! (vídeo, short y miniatura para la publicación en YouTube).
