@@ -1,3 +1,3 @@
 # Pixel Amigos
 
-Capítulo 10: La gran fiesta de los colores (vídeo, short y miniatura para la publicación en YouTube).
+Archivos del capítulo 11: ¡Nieve en Pixelandia! (vídeo, short y miniatura) para la publicación en YouTube vía Metricool.
