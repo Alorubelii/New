@@ -1,3 +1,7 @@
-# Pixel Amigos
+# Pixel Amigos — vídeos del día
 
-Archivos del capítulo 13: ¡Chispa aprende a volar! (vídeo, short y miniatura) para la publicación en YouTube vía Metricool.
+Capítulo 14: ¡Lluvia de estrellas fugaces!
+
+- Pixel_Amigos_Cap14.mp4
+- Pixel_Amigos_Cap14_short.mp4
+- Pixel_Amigos_Cap14_miniatura.png
