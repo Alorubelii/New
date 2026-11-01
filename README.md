@@ -1,7 +1,7 @@
 # Pixel Amigos — vídeos del día
 
-Capítulo 14: ¡Lluvia de estrellas fugaces!
+Capítulo 15: ¡El robot de Leo!
 
-- Pixel_Amigos_Cap14.mp4
-- Pixel_Amigos_Cap14_short.mp4
-- Pixel_Amigos_Cap14_miniatura.png
+- Pixel_Amigos_Cap15.mp4
+- Pixel_Amigos_Cap15_short.mp4
+- Pixel_Amigos_Cap15_miniatura.png
