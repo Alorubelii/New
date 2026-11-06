@@ -1,3 +1,1 @@
-# Pixel Amigos
-
-Archivos del capítulo 19: ¡Bit se ha resfriado!
+Pixel Amigos: vídeos del capítulo 20 para publicar vía Metricool.
