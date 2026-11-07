@@ -1,1 +1,3 @@
-Pixel Amigos: vídeos del capítulo 20 para publicar vía Metricool.
+# Pixel Amigos
+
+Capítulo 21: ¡El gran escondite! (vídeo, short y miniatura para la programación en YouTube).
